@@ -16,7 +16,7 @@ public class Palindrome {
     }
 
     public static void main(String[] args) {
-        String str1 = "alex";
+        String str1 = "w";
         String str2 = "1DooD1";
         String str3 = "zpdTTTTT TTTdpz";
         System.out.println(isPalindrome(str1));
